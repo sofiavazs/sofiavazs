@@ -12,11 +12,6 @@ I'm a __Fullstack developer__ in the making, computers were always a passion, bu
  
  - 📫 You can find me on: [__LinkedIn__](https://www.linkedin.com/in/sofiavazsousa/)
  
- 
- 
- ### Most Coded 👩🏻‍💻
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavazs&layout=compact)](https://github.com/sofiavazs/github-readme-stats)
 
 
 <!--
