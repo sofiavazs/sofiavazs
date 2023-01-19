@@ -11,8 +11,6 @@ I'm a __Frontend developer__, computers were always a passion, but was not until
  - 💥 I'm __curious__ and eager to learn new skills.
  - ⚡ Fun fact: I'm a VR games addict!
  
- - 📫 You can find me on: [__LinkedIn__](https://www.linkedin.com/in/sofiavazsousa/)
- 
 
 
 <!--
