@@ -5,7 +5,7 @@ I'm a __Frontend developer__, computers were always a passion, but was not until
 
  - 📚 I’ve graduated from the Front End Development Program [__Technigo__](https://www.technigo.io/) in February 2021.
  - 🏥 I currently work as a __Front End Developer__ in e-healthcare.
- - 🌱 I’m currently learning: __C#, Unity__ and __Blender__.
+ - 🌱 I’m currently learning: __Remix, __C#, Unity__ and __Blender__.
  - 🌈 I also love design!
  - 👩🏻‍⚕️ I have a Nursing Degree, I'm a Specialist Nurse and have worked as such for 12 years!
  - 💥 I'm __curious__ and eager to learn new skills.
