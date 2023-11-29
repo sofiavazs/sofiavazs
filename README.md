@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sofia ✨ 
 
- - 📚 I’ve graduated from the Front End Development Program [__Technigo__](https://www.technigo.io/) in February 2021.
+  - 📚 I’ve graduated from the Web Development Program [__Technigo__](https://www.technigo.io/) in February 2021.
  - 🏥 I currently work as a __Front End Developer__ and __Project Lead__  in e-health.
  - 🌱 I’m currently learning: __Ruby__.
  - 🌈 I also love design!
