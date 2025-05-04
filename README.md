@@ -6,7 +6,7 @@
  - 🌈 I also love UI design!
  - 👩🏻‍⚕️ I have a Nursing Degree, I'm a Specialist Nurse and have worked as such for 12 years!
  - 💥 I'm __curious__ and eager to learn new skills.
- - ⚡ Fun fact: I'm a VR games addict!
+ - ⚡ Fun fact: I'm a VR games player!
  
 
 
