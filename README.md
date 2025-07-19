@@ -2,7 +2,7 @@
 
  - 🏥 I currently work as a __Front End Developer__ in e-health.
  - 📚 I’ve graduated from the Web Development Program at [__Technigo__](https://www.technigo.io/) in February 2021.
- - 🌱 I’m currently learning: __Ruby__.
+ - 🌱 I’m currently learning: __Ruby on Rails__.
  - 🌈 I also love UI design!
  - 👩🏻‍⚕️ I have a Nursing Degree, I'm a Specialist Nurse and have worked as such for 12 years!
  - 💥 I'm __curious__ and eager to learn new skills.
